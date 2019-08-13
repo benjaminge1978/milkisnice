@@ -7,7 +7,7 @@ export default () => (
       <Link to ="/contact/">Contact</Link>
       < Header headerText="Homepage" />
       <h1>Hello Gatsby!</h1>
-      <p>Gatsby-push-test</p>
+      <p>Gatsby-push-test111</p>
       <img src="https://source.unsplash.com/random/400x200" alt="" />
       
       </div>
